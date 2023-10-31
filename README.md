@@ -52,7 +52,8 @@ You can include sample commands, screenshots, or code snippets to illustrate the
 Specify the project's license information, if applicable. For example, you can use an MIT License.
 
 
-## Example Outputs and Derived Insights:
+
+# Example Outputs and Derived Insights:
 # Product Sales Analysis
 
 # Top Revenue Product: 
